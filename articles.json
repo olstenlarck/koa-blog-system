@@ -1,0 +1,172 @@
+{
+  "1": {
+    "id": 1,
+    "title": "foo bar baz",
+    "descr": "This is a article without image, but with two comments",
+    "deleted": false,
+    "date": "2016-10-02T11:33:22.612Z",
+    "views": 9,
+    "comments": [
+      {
+        "id": 1,
+        "username": "charlie",
+        "text": "some fancy comment",
+        "date": "2016-10-05T19:50:30.532Z"
+      },
+      {
+        "id": 2,
+        "username": "tunnckoCore",
+        "text": "and more comments here bro!",
+        "date": "2016-10-06T19:22:40.102Z"
+      }
+    ],
+    "img": null
+  },
+  "2": {
+    "id": 2,
+    "title": "second article here",
+    "descr": "This is a article without image, but with one comment",
+    "deleted": false,
+    "date": "2016-10-03T13:41:11.232Z",
+    "views": 26,
+    "comments": [
+      {
+        "id": 1,
+        "username": "nicolas",
+        "text": "some fancy comment",
+        "date": "2016-10-05T19:50:30.532Z"
+      }
+    ],
+    "img": null
+  },
+  "3": {
+    "id": 3,
+    "title": "this is awesome article",
+    "descr": "lorem ipsum sit amet... with image",
+    "deleted": false,
+    "date": "2016-10-04T18:50:33.612Z",
+    "views": 14,
+    "comments": [
+      {
+        "id": 1,
+        "username": "tunnckoCore",
+        "text": "some fancy comment",
+        "date": "2016-10-05T19:50:30.532Z"
+      },
+      {
+        "id": 2,
+        "username": "lucy",
+        "text": "and more comments here bro!",
+        "date": "2016-10-06T19:22:40.102Z"
+      }
+    ],
+    "img": "NmWjDSlP97pnTzYu1OGzFu_n.jpg"
+  },
+  "4": {
+    "id": 4,
+    "title": "some really funny article title",
+    "descr": "but the text is a bit smaller.. soo lorem ipsum sit amet mehmet dikmet i pesho karajata",
+    "deleted": false,
+    "date": "2016-10-09T12:41:25.640Z",
+    "views": 77,
+    "comments": [],
+    "img": null
+  },
+  "5": {
+    "id": 5,
+    "title": "pesho tenekiqta se sgodil",
+    "descr": "Nai golemiq skandal za tazi gondina... Napulno neznainiq tenekedjiq ot neznaino ot kude se sgodil",
+    "deleted": false,
+    "date": "2016-10-09T13:06:11.129Z",
+    "views": 37,
+    "comments": [],
+    "img": null
+  },
+  "6": {
+    "id": 6,
+    "title": "One more awesome article",
+    "descr": "yea this \"system\" just needs some design and is ready. Built with `koa@2`, javascript templates by `bel`.",
+    "deleted": false,
+    "date": "2016-10-09T13:10:01.733Z",
+    "views": 4,
+    "comments": [],
+    "img": null
+  },
+  "7": {
+    "id": 7,
+    "title": "this is article with an image",
+    "descr": "long long some description here and there",
+    "deleted": false,
+    "date": "2016-10-09T14:51:24.769Z",
+    "views": 2,
+    "comments": [
+      {
+        "id": 1,
+        "username": "tunnckoCore",
+        "text": "okey madafaka, it's okey already",
+        "date": "2016-10-11T00:07:41.929Z"
+      }
+    ],
+    "img": null
+  },
+  "8": {
+    "id": 8,
+    "title": "gdfgdfgdfgdfgdfgdf",
+    "descr": "gf jasdfsdhfsdfsdf sdf sdhfksdkfsdjhsdf",
+    "deleted": false,
+    "date": "2016-10-09T14:52:18.581Z",
+    "views": 13,
+    "comments": [
+      {
+        "id": 1,
+        "username": "foo",
+        "text": "bar baz qux",
+        "date": "2016-10-11T00:08:04.323Z"
+      },
+      {
+        "id": 2,
+        "username": "bar",
+        "text": "okey @foo, well done!",
+        "date": "2016-10-11T00:08:16.018Z"
+      }
+    ],
+    "img": null
+  },
+  "9": {
+    "id": 9,
+    "title": "foo image bar",
+    "descr": "yeah this is article with an image",
+    "deleted": false,
+    "date": "2016-10-10T23:31:18.416Z",
+    "views": 9,
+    "comments": [],
+    "img": null
+  },
+  "10": {
+    "id": 10,
+    "title": "foo barquxuahxax",
+    "descr": "dflkgfdf lgdfjklgkldfklgd ljg jdfljk gkjldkg ",
+    "deleted": false,
+    "date": "2016-10-10T23:35:39.626Z",
+    "views": 11,
+    "comments": [],
+    "img": null
+  },
+  "11": {
+    "id": 11,
+    "title": "reality is cool",
+    "descr": "yeap this will work haha",
+    "deleted": false,
+    "date": "2016-10-10T23:41:16.819Z",
+    "views": 17,
+    "comments": [
+      {
+        "id": 1,
+        "username": "letta",
+        "text": "yeah nikoletka... Nikko Letta.",
+        "date": "2016-10-11T00:38:02.956Z"
+      }
+    ],
+    "img": "upload_25d8d677c4b53c1e91fcf4e3d8fe6c14.jpeg"
+  }
+}
