@@ -28,7 +28,7 @@
     "koa": "^2.0.0",
     "koa-bel": "^1.0.0",
     "koa-better-body": "^3.0.2",
-    "koa-send": "^3.2.0"
+    "koa-better-serve": "^0.2.1"
   },
   "devDependencies": {
     "commitizen": "^2.8.6",

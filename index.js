@@ -13,8 +13,8 @@ var app = new Koa()
 
 var body = require('koa-better-body')
 var extend = require('extend-shallow')
-var router = require('koa-router')()
-var serve = require('./test')
+var router = require('koa-router')() // need `koa-better-router`
+var serve = require('koa-better-serve')
 var store = require('data-store')('articles', {cwd: process.cwd()})
 var artcileCtrl = require('./controllers/article')
 
